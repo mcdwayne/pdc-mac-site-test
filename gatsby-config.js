@@ -1,5 +1,4 @@
 module.exports = {
-    pathPrefix: "/processdigitalconsulting",
     siteMetadata: {
         title: `PDC`,
         description: `Make your Staff and Workspace Happy`,

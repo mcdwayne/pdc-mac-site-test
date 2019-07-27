@@ -41,7 +41,7 @@ const IndexPage = () => (
                     <div className={"row"}>
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
-                                <h2>Refine Your Definition Of Seccess</h2>
+                                <h2>Refine Your Definition Of Success</h2>
                                 <p>Find your path from endless meetings and tribal knowledge to a well oiled machine that empowers team members to deliver better results for your clients.</p>
                             </div>
                         </div>
@@ -65,7 +65,7 @@ const IndexPage = () => (
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
                                 <h2>Evolve with Purpose!</h2>
-                                <p>Stop growing without a plan. What got you today does not get you tomorrow. Make the proactive choice to elimate inefficiencies and prevent bottlenecks before they become engrained.</p>
+                                <p>Stop growing without a plan. What got you today does not get you tomorrow. Make the proactive choice to eliminate inefficiencies and prevent bottlenecks before they become ingrained.</p>
                             </div>
                         </div>
                     </div>
