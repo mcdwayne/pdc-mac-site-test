@@ -2,26 +2,25 @@ import React from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import featureImage from "../../static/images/hero.png";
-import thumbnailEvent from "../../static/images/feature-event.png"
-import thumbnailBoard from "../../static/images/feature-board.png"
-import thumbnailNews from "../../static/images/feature-news.png"
+import thumbnailEvent from "../../static/images/dylan-gillis-KdeqA3aTnBY-unsplash.webp"
+import thumbnailBoard from "../../static/images/isaac-smith-AT77Q0Njnt0-unsplash.webp"
+import thumbnailNews from "../../static/images/cater-butter.webp"
 import thumbnailTeams from "../../static/images/feature-team.png"
 import thumbnailStaff from "../../static/images/feature-user.png"
 
 const IndexPage = () => (
     <Layout>
-        <SEO title="Make your Staff and Workspace Happy"/>
+        <SEO title="Optimize Your Workflows And Processes"/>
 
         <div className={"page-header home"}>
-            <h1>Make your Staff and Workspace Happy</h1>
-            <p>HiStaff gives your complex the opportunity to increase the percentage of happiness<br/>and enjoyment of your staff and as a result, bring productivity to your workspace.</p>
-            <img alt={"Dashboard"} src={featureImage}/>
+            <h1>Better Processes = Better Results</h1>
+            <p>From defining your story of what success looks like to implementing tools<br/>Process Digital Consulting can get you to success faster</p>
+           
         </div>
 
         <div className={"container"}>
             <div className={"features"}>
-                <div className={"feature__item"}>
+                <div className={"feature__item1"}>
                     <div className={"row"}>
                         <div className={"col-6 first"}>
                             <div className={"thumbnail"}>
@@ -31,8 +30,8 @@ const IndexPage = () => (
 
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
-                                <h2>Create and Join Events</h2>
-                                <p>Save your time and energy by letting HiStaff to manage your events (handle the colleague’s birthday, gathering, etc.)</p>
+                                <h2>Optimize Your Organizational Processes</h2>
+                                <p>Let us help you map your processes that have emerged naturally and plan for a better tomorrow. Unleash the power of your team by letting them focus on what matters.</p>
                             </div>
                         </div>
                     </div>
@@ -42,8 +41,8 @@ const IndexPage = () => (
                     <div className={"row"}>
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
-                                <h2>Public Board</h2>
-                                <p>Let the staff write down on the board freely,<br/>Joking with each other and writing cool content can make the workplace more diverse and attractive for employees. </p>
+                                <h2>Refine Your Definition Of Seccess</h2>
+                                <p>Find your path from endless meetings and tribal knowledge to a well oiled machine that empowers team members to deliver better results for your clients.</p>
                             </div>
                         </div>
 
@@ -55,7 +54,7 @@ const IndexPage = () => (
                     </div>
                 </div>
 
-                <div className={"feature__item"}>
+                <div className={"feature__item1"}>
                     <div className={"row"}>
                         <div className={"col-6 first"}>
                             <div className={"thumbnail"}>
@@ -65,59 +64,27 @@ const IndexPage = () => (
 
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
-                                <h2>Internal News</h2>
-                                <p>Get rid of sending news by e-mail and its problems; post the news in an internal and attractive format via HiStaff instead.</p>
+                                <h2>Evolve with Purpose!</h2>
+                                <p>Stop growing without a plan. What got you today does not get you tomorrow. Make the proactive choice to elimate inefficiencies and prevent bottlenecks before they become engrained.</p>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div className={"feature__item"}>
-                    <div className={"row"}>
-                        <div className={"col-6"}>
-                            <div className={"feature__content"}>
-                                <h2>Teams</h2>
-                                <p>HiStaff let you add staff in specific teams and manage them easily.</p>
-                            </div>
-                        </div>
 
-                        <div className={"col-6 first"}>
-                            <div className={"thumbnail"}>
-                                <img alt={"Team"} src={thumbnailTeams}/>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div className={"feature__item"}>
-                    <div className={"row"}>
-                        <div className={"col-6 first"}>
-                            <div className={"thumbnail"}>
-                                <img alt={"Users"} src={thumbnailStaff}/>
-                            </div>
-                        </div>
-
-                        <div className={"col-6"}>
-                            <div className={"feature__content"}>
-                                <h2>Staff management</h2>
-                                <p>Discard traditional ways to archive staff documents and information, and try new ways to store and archive them in HiStaff easily.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
-
+        <br/>
+        <br/>
         <div className={"call-to-action"}>
             <div className={"container"}>
                 <div className={"call-to-action__content"}>
-                    <h2>Sign up for free</h2>
-                    <p>Sign up and start increasing the productivity of your business with HiStaff.</p>
+                    <h2>Reach out today!</h2>
+                    <p>Don't let one more day pass you by. Reach out now to start your journey to better processes today.</p>
                 </div>
 
                 <div className={"button"}>
-                    <a href="https://app.histaff.io" target={"_blank"}>Get Started</a>
-                </div>
+                    <a href="https://forms.gle/ELy6jVDdydsFATAYA" target={"_blank"}>Start The Conversation</a>                </div>
             </div>
         </div>
     </Layout>
