@@ -51,7 +51,7 @@ const Layout = ({children}) => (
                                     <h4></h4>
                                     <ul>
                                         <li><Link to="/about" title={"About Us"}>About</Link></li>
-
+                                        <li><Link to="/services" title={"Services"}>Services</Link></li>
                                     </ul>
                                 </ul>
                             </div>

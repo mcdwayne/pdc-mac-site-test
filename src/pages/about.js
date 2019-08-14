@@ -2,7 +2,7 @@ import React from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import informationImage from "../../static/images/dwayne-speaking.jpeg";
+import informationImage from "../../static/images/Headshot-square.webp";
 
 const AboutPage = () => (
     <Layout>
