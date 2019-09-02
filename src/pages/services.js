@@ -28,7 +28,7 @@ const ServicesPage = () => (
                                 <p>The first step toward improving any system is understanding the system holistically as it exists today. In this procedure, we will document existing systems. We will note how they are being leveraged now. <br /><br />
                                 In this document you will also be made aware of  all exceptions and special circumstances your organization.<br /><br />
                                 We can come to your office for a day or can map online meetings over the course of three weeks. <br /><br />
-                                Price starts at $500 per day. 
+                                
 </p>
                             </div>
                         </div>
@@ -44,8 +44,7 @@ const ServicesPage = () => (
                                 Process Digital Consulting is available to kick off your new and improved organization with a series workshops for the whole team or one-on-one for product owners and key stakeholders.  <br /><br />
 
                                 This series of workshops, delivered in person or video conference, is the perfect way to make sure every contributor is aware of the benefits of process realignment. Ensuring buy-in with your team is an important factor in system optimization. Not only that, but they should have their concerns and questions heard and addressed. 
-                                <br /><br />
-                                Workshop pricing starts at $300 per session.
+                        
  </p>
                             </div>
                         </div>

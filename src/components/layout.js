@@ -40,7 +40,7 @@ const Layout = ({children}) => (
                                 </div>
 
                                 <div className={"about"}>
-                                    <p>Unleash your team's maximum potential</p>
+                                    <p>Turning Strategic Vision Into Tactical Wins</p>
                                 </div>
                             </div>
                         </div>

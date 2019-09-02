@@ -79,7 +79,7 @@ const IndexPage = () => (
 
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
-                                <h2>Services Custmized To Fit Your Needs</h2>
+                                <h2>Services Customized To Fit Your Needs</h2>
                                 <p><a href='https://processdigitalconsulting.com/services'> Find out about our offerings over on our Services page. </a> </p>
                             </div>
                         </div>
